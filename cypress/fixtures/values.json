@@ -1,0 +1,6 @@
+{
+  "invalid_name":["Ana*", "Ana+","Ana/","Ana.Maria","Ana,bel","Gilbert","Kevin?", "H","Carlos1st"],
+  "invalid_email":["smith84","Abc.example.com","A@b@c@example.com","allowed@example.com","uiabc@example.com","johndoeexample.com"],
+  "invalid_phone":["3456","1234", "1h3?=","654 234 2-45","qwertyuiop","4.654.564.563"],
+  "invalid_password":["PASS12?&&1","Pass12pa", "pass12a","Pa12","1234567"," sdfghjki","*+-/+-","LOIKJUYH"]
+}
